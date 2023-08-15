@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="page d'accueil de notre entreprise">
+        <title>MAXCOMMERCE225.ci</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Maxcommerce225</h1>
+        </header>
+        <nav id="nav">
+            <div class="link-box">
+                <a href="index.html" target="_blank" class="red">accueil</a>
+                <a href="doing.html" target="_blank" class="yellow" >Nos activités</a>
+                <a href="contact.html" target="_blank"class="green">contact</a>
+            </div>
+        </nav>
+        <article>
+            <h1>QUI sommes-nous ?</h1>
+            <section class="bio">
+                <p><strong>Maxcommerce225</strong> est une entreprise du monde internet dont la vocation est de vous servir.</p>
+                <p>Comment ?</p>
+                <p>Simplement en repondant a vos besoins avec des offres toujours mieux adaptées.</p>
+            </section>
+            <h1>Pourquoi nous et pas d'autres ?</h1>
+            <section class="bio">
+                <p>Notre politique c'est vous rendre service et c'est cela qui est pour nous notre réussite !</p>
+                <p>et ?</p>
+                <p>De plus, nous travaillons à etre toujours dans la chaîne du temps. ce qui nous emmène constamment à s'améliorer pour votre plus grand bonheur.</p>
+            </section>
+            <h1>travaillez-vous avec des partenaires ?</h1>
+            <section class="bio">
+                <p>en vue de vous fournir un service toujours plus fiable et de qualité, nous travaillons effectivement<br>
+                    avec des partenaires.dans nos differents secteurs d'activités qui sont tous notifié dans notre rubrique activité. </p>
+            </section>
+            <h1>que devrais-je donc retenir ?</h1>
+            <section class="bio">
+                <p>Très simplement ! Que Maxcommerce225 est une entreprise qui met tout en oeuvre pour vous satisfaire dans<br>ses differents domaines d'activités.
+                    si elle paraît très petite voir peu connu sur le marché, elle est beaucoup plus importante<br>
+                     qu'il n'y paraît.elle travaille en partenariat avec d'autres entreprises ;)
+                    </p> 
+            </section>
+            <h2>c'est quoi la suite ?</h2>
+            <p>Vous n'avez qu'à cliquez <a href="#nav">ici</a> pour choisir une option de suite :)</p>
+        </article>
+        <footer>
+            <p>Copyright 2023 MAXCOMMERCE225 tous droits réservés</p>
+        </footer>
+    </body>
+</html>
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="page d'accueil de notre entreprise">
+        <title>MAXCOMMERCE225.ci</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Maxcommerce225</h1>
+        </header>
+        <nav>
+            <div class="link-box">
+                <a href="index.html" target="_blank" class="red">accueil</a>
+                <a href="doing.html" target="_blank" class="yellow" >Nos activités</a>
+                <a href="contact.html" target="_blank"class="green">contact</a>
+            </div>
+        </nav>
+        <article>
+            <section class="bio"> 
+                <p>Nous avons diverses activités réparties en activités ordinaires et extraordinaires.</p>
+                <p>Nous avons également des domaines dans lesquels nous fournirons des services très bientôt.</p>
+                <p>Une image valant mille mots nous vous offrons plusieurs images ;)</p>
+            </section>
+            <h1>La Vente automobile</h1>
+            <section class="secfloat">
+                <div class="left">
+                    <img src="lamb1.jpg" alt="une voiture en vente chez MAXCOMMERCE225">
+                </div>
+                <div class="right">
+                    <div class="h2box">
+                        <ul>
+                            <li><h2>Les voitures de sport</h2></li>
+                            <li><h2>Les voitures des particliers</h2></li>
+                            <li><h2>Les voitures concessionnaires</h2></li>
+                        </ul>
+                    </div>    
+                    <div class="pbox">
+                        <p>Chaque jour nous vous proposons une large gamme de véhicules</p>
+                        <p>Ce que vous avez à faire c'est tout simplement de biens vous installer et choisir celle qui vous marque</p>
+                    </div>
+                </div>
+            </section>
+            <h1>La Vente de materiaux informatiques</h1>
+            <section class="secfloat">
+                <div class="right"> <!--j'ai fais une inversion des blocs left et right mais on devrait avoir un resultat semblable-->
+                    <div class="h2box">
+                        <ul>
+                            <li><h2>Les ordinateurs normaux (pc et bureaux)</h2></li>
+                            <li><h2>Les gamers (PC et bureaux)</h2></li>
+                            <li><h2>Les souris, claviers et autres accessoires</h2></li>
+                        </ul>
+                    </div>    
+                    <div class="pbox">
+                        <p>Chaque jour nous vous proposons une large gamme d'ordinateurs et outils informatiques</p>
+                        <p>Ce que vous avez à faire c'est tout simplement, de biens vous installer et choisir ce qui repond à vos besoins</p>
+                    </div>
+                </div>
+                <div class="left">
+                    <img src="lamb3.jpg" alt="un ordinateur en vente chez MAXCOMMERCE225">
+                </div>
+            </section>
+            <h1>L'infographie</h1>
+            <section class="secfloat">
+                <div class="left">
+                    <img src="affiche_canine.png" alt="une  affiche créée par MAXCOMMERCE225">
+                </div>
+                <div class="right">
+                    <div class="h2box">
+                        <ul>
+                            <li><h2>création de logos</h2></li>
+                            <li><h2>création d'affiches electroniques</h2></li>
+                            <li><h2>création de bannières facebook</h2></li>
+                            <li><h2>création de visuels pour la vente</h2></li>
+                        </ul>
+                    </div>    
+                    <div class="pbox">
+                        <p>Pour plus d'information nous vous invitons a télécharger notre fiche de service <a href="">ici</a></p>
+                        <p>vous pouvez également <a href="">nous contactez</a>, dans le cas ou vous voudriez mieux comprendre</p>
+                        <p>NB: l'infographie est notre seul activité extraordinaire actuelle</p>
+                    </div>
+                </div>
+            </section>
+            <h1>quels seront vos prochains services ?</h1>
+        </article>
+        <hr>
+        <article class="art">
+            <h1>La creation de site web</h1>
+            <section class="secfloat">
+                <div class="left">
+                    <img src="fond-web.png" alt="Un des sites web que nous avons créé ">
+                </div>
+                <div class="right">
+                    <div class="h2box">
+                        <ul>
+                            <li><h2>Les sites web front-end</h2></li>
+                            <li><h2>Les sites web back-end</h2></li>
+                            <li><h2>Les sites web responsives</h2></li>
+                        </ul>
+                    </div>    
+                    <div class="pbox">
+                        <p>Que vous ayez besoin d'un site web, commerciale, dynamique, un blog etc...</p>
+                        <p>Notre équipe sera entièrement disposé pour vous aider et realiser votre rêve. </p>
+                    </div>
+                </div>
+            </section>
+            <h1>La publicité facebook</h1>
+            <section class="secfloat">
+                <div class="right"> <!--j'ai fais une inversion des blocs left et right mais on devrait avoir un resultat semblable-->
+                    <div class="h2box">
+                        <ul>
+                            <li><h2>Le sponsoring de vos pages</h2></li>
+                            <li><h2>La création de vos visuels, et de vos offres.</h2></li>
+                            <li><h2>Des cours sur comment gérer vos pages et profils</h2></li>
+                        </ul>
+                    </div>    
+                    <div class="pbox">
+                        <p>Pour vous ramener des clients, des offres et finalement des bénéfices.</p>
+                        <p>Pour  améliorer l'apparence de vos produits.</p>
+                        <p>Pour vous aider à mieux utiliser vos profils et pages facebook pour la vente.</p>
+                    </div>
+                </div>
+                <div class="left">
+                    <img src="lamb3.jpg" alt="un ordinateur en vente chez MAXCOMMERCE225">
+                </div>
+            </section>
+            <h1>les formations en developpement personnels et business</h1>
+            <section class="secfloat">
+                <div class="left">
+                    <img src="affiche_canine.png" alt="une  affiche créée par MAXCOMMERCE225">
+                </div>
+                <div class="right">
+                    <div class="h2box">
+                        <ul>
+                            <li><h2>Cours de mindset businessman/woman</h2></li>
+                            <li><h2>Processus pour commencer un business en ligne</h2></li>
+                            <li><h2>MAXCOMBIZ-CLUB</h2></li>
+                        </ul>
+                    </div>    
+                    <div class="pbox">
+                        <p>Il s'agit d'un club d'entrepreneur de quoi rester dans un environnement business</p>
+                    </div>
+                </div>
+            </section>
+        </article>
+        <footer>
+            <p>Copyright 2023 MAXCOMMERCE225 tous droits réservés</p>
+        </footer>
+    </body>
+</html>
+
+-===================================================================================================
+Intéressez par nos produits ? contactez-nous <a href="">ici</a>
